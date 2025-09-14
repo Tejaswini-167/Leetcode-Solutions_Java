@@ -3,7 +3,7 @@ Solving Leetcode problems using Java programming language
 
 
 ## 🟢 Easy
-*(Coming soon)*
+- [1. Two Sum](Easy/1-two-sum.java)
 
 ## 🟡 Medium
 *(Coming soon)*
