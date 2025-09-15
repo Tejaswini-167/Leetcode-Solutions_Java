@@ -4,7 +4,7 @@ Solving Leetcode problems using Java programming language
 
 ## 🟢 Easy
 - [1 two sum](Easy/1-two-sum.java)
-- [2235 add two sum](Easy/2235-add-two-sum.java)
+- [2235 add two sum](Easy/2235-add-two-integers.java)
 ## 🟡 Medium
 *(Coming soon)*
 
